@@ -19,5 +19,9 @@ module.exports = {
         case: 'kebabCase'
       }
     ]
+  },
+  env: {
+    browser: true,
+    node: true
   }
 };
